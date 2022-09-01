@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AHMED DADI
-- 👀 I’m interested in Fishing old fb
+- 👀 I’m interested in ing  old fb
 - 🌱 I’m currently learning Termux&python 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me https://www.facebook.com/Ahmed.dadi30
